@@ -1,0 +1,29 @@
+{
+  "version": "1.0.0",
+  "schedule": {
+    "enabled": true,
+    "time": "08:00"
+  },
+  "notification": {
+    "enabled": false,
+    "type": "none"
+  },
+  "platforms": {
+    "jd": {
+      "enabled": false,
+      "cookies": ""
+    },
+    "meituan": {
+      "enabled": false,
+      "cookies": ""
+    },
+    "alipay": {
+      "enabled": false,
+      "cookies": ""
+    },
+    "pdd": {
+      "enabled": false,
+      "cookies": ""
+    }
+  }
+}
