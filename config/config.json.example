@@ -1,0 +1,42 @@
+{
+    "jd": {
+        "enabled": true,
+        "cookies": {
+            "pt_key": "你的pt_key",
+            "pt_pin": "你的pt_pin"
+        }
+    },
+    "meituan": {
+        "enabled": true,
+        "token": "你的美团token",
+        "user_id": "你的用户ID"
+    },
+    "alipay": {
+        "enabled": true,
+        "forest_enabled": true,
+        "farm_enabled": true,
+        "cookies": {
+            "cookie": "你的支付宝Cookie"
+        }
+    },
+    "pdd": {
+        "enabled": true,
+        "cookies": {
+            "PDDAccessToken": "你的拼多多AccessToken"
+        }
+    },
+    "notify": {
+        "enabled": true,
+        "serverchan_key": "",
+        "bark_key": "",
+        "pushplus_token": "",
+        "email": {
+            "enabled": false,
+            "smtp_server": "smtp.qq.com",
+            "smtp_port": 465,
+            "sender": "",
+            "password": "",
+            "receiver": ""
+        }
+    }
+}
